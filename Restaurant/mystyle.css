@@ -1,0 +1,27 @@
+span{
+    font-size: 20px;
+	padding: 10px;
+	color: #EA3A37;
+	}
+
+h1{
+	color: #BF1816;
+	}
+
+body{
+	background-color: beige;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+.nav{
+	background-color: #3C2905;
+	padding: 10px;
+}
+.food{
+	width: 100%;
+	height: 250px 
+	padding: 5px;
+}
